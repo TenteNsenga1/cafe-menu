@@ -1,3 +1,3 @@
 # cafe-menu
 
-simple cafe menu using basic html and css code 
+simple cafe menu web page using basic html and css code 
